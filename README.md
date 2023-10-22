@@ -21,6 +21,6 @@ Over the weeks I will be exploring the following topics, learning everything I n
 
 ## Episode 1 - Building a simple microservice
 
-### Branch: [episode_1](https://github.com/jedrekdomanski/microservices/tree/episode_1)
+### Branch: [episode_1](https://github.com/jedrekdomanski/microservices/tree/episode-1)
 
 In this episode I learn how to build the simplest service you can using the standard packages in the Go programming language.
