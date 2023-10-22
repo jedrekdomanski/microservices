@@ -27,6 +27,10 @@ In this episode I learn how to build the simplest service you can using the stan
 
 ## Episode 2 - Building a simple microservice, continued
 
-### Branch: [episode_1](https://github.com/jedrekdomanski/microservices/tree/episode-2)
+### Branch: [episode_2](https://github.com/jedrekdomanski/microservices/tree/episode-2)
 
 In this episode I learn more about the standard library and look at how I can refactor last episodes example into a reusable microservice pattern.
+
+### Branch: [episode_3](https://github.com/jedrekdomanski/microservices/tree/episode-3)
+
+In this episode I start to learn about RESTFul services and reading and writing data using the JSON format.
