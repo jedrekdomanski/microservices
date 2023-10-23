@@ -50,3 +50,8 @@ In this epsode I refactor my Standard library RESTful service and start to imple
 ### Branch: [episode_6](https://github.com/jedrekdomanski/microservices/tree/episode-6)
 
 In this episode I look at the Go Validator package and how it can be used to validate JSON
+
+## Episode 7 - Documenting APIs with Swagger
+### Branch: [episode_7](https://github.com/jedrekdomanski/microservices/tree/episode-7)
+
+In this episode I learn how to document the API using Swagger
