@@ -45,3 +45,8 @@ I continue to look at how you can implement RESTFul services with the Standard A
 ### Branch: [episode_5](https://github.com/jedrekdomanski/microservices/tree/episode-5)
 
 In this epsode I refactor my Standard library RESTful service and start to implement the Gorilla toolkit for routing.
+
+## Episode 6 - JSON Validation
+### Branch: [episode_6](https://github.com/jedrekdomanski/microservices/tree/episode-6)
+
+In this episode I look at the Go Validator package and how it can be used to validate JSON
